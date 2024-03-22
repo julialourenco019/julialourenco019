@@ -1,8 +1,8 @@
-###   Hi! I'm Julia
-
+###  
+<h1 align="left"> Hi! I'm Julia  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 ##
 
--  🖥️  I'm studying Systems Development
+-  🖥️  I'm learning to program.
 -  📩  Contact: juliarita1901@gmail.com
 -  😄  Pronouns: she/her
 
@@ -18,6 +18,7 @@
   <img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center"  height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center"  height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 ##  </div>
   <div>
