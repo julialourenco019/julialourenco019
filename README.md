@@ -2,9 +2,9 @@
 
 ##
 
--  🖥️  Estou estudando ADS
--  📩  Contat: julialourenco1901@gmail.com
-- 😄 Pronomes: ela/dela
+-  🖥️  I'm studying Systems Development
+-  📩  Contact: juliarita1901@gmail.com
+-  😄  Pronouns: she/her
 
 
 
