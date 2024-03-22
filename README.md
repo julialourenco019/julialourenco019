@@ -7,7 +7,7 @@
 -  😄  Pronouns: she/her
 
 ##
-[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=julialourenco019_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <div style="display: inline_block"><br>
   
   <img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
