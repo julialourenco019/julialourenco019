@@ -1,10 +1,14 @@
-###  
-<h1 align="left"> Hi! I'm Julia  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
+<h1 align="left"> Hi! I'm Julia  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
+</h1>
+ 
 
 -  🖥️  I'm learning to program.
 -  📩  Contact: juliarita1901@gmail.com
 -  😄  Pronouns: she/her
+
+
 
 ##
  <div align="left">
