@@ -7,7 +7,12 @@
 -  😄  Pronouns: she/her
 
 ##
-[[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=julialourenco019_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ <div align="center">
+  <a href="https://github.com/julialourenco019">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julialourenco019&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialourenco019&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 <div style="display: inline_block"><br>
   
   <img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
