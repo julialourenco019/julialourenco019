@@ -1,4 +1,4 @@
-###   Oii! eu sou a Júlia R. Lourenço
+###   Hi! I'm Julia
 
 ##
 
